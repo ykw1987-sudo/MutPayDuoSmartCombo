@@ -1,0 +1,615 @@
+[
+    {
+      "name": "魚柳蝦堡",
+      "single_price": 39.0,
+      "meal_price": 48.0,
+      "category": "shrimp_burger",
+      "units": 1,
+      "default_drink": "可口可樂®汽水",
+      "default_side": "薯條"
+    },
+    {
+      "name": "黃金蟹堡",
+      "single_price": 32.0,
+      "meal_price": 42.0,
+      "category": "crab_burger",
+      "units": 1,
+      "default_drink": "可口可樂®汽水",
+      "default_side": "薯條"
+    },
+    {
+      "name": "菠蘿蝦堡",
+      "single_price": 35.0,
+      "meal_price": 45.0,
+      "category": "shrimp_burger",
+      "units": 1,
+      "default_drink": "可口可樂®汽水",
+      "default_side": "薯條"
+    },
+    {
+      "name": "滋味蝦堡",
+      "single_price": 32.0,
+      "meal_price": 39.0,
+      "category": "shrimp_burger",
+      "units": 1,
+      "default_drink": "可口可樂®汽水",
+      "default_side": "薯條"
+    },
+    {
+      "name": "Double 滋味蝦堡（晚上6時後）",
+      "single_price": 44.5,
+      "meal_price": 49.0,
+      "category": "shrimp_burger",
+      "units": 2,
+      "default_drink": "可口可樂®汽水",
+      "default_side": "薯條"
+    },
+      {
+        "name": "Double 雙層芝士孖堡™（晚上6時後）",
+        "single_price": 36.5,
+        "meal_price": 49.0,
+        "category": "double_cheese_burger",
+        "units": 1,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "芝士安格斯",
+        "single_price": 34.0,
+        "meal_price": 46.0,
+        "category": "angus",
+        "units": 1,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "Double芝士安格斯",
+        "single_price": 45.5,
+        "meal_price": 56.5,
+        "category": "angus",
+        "units": 2,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "蘑菇安格斯",
+        "single_price": 38.5,
+        "meal_price": 51.0,
+        "category": "angus",
+        "units": 1,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "巨無霸®",
+        "single_price": 25.5,
+        "meal_price": 44.5,
+        "category": "big_mac",
+        "units": 1,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "雙層芝士孖堡™",
+        "single_price": 24.0,
+        "meal_price": 39.0,
+        "category": "double_cheese_burger",
+        "units": 1,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "脆辣雞腿飽",
+        "single_price": 27.0,
+        "meal_price": 44.5,
+        "category": "spicy_chicken_burger",
+        "units": 1,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "豬柳蛋漢堡",
+        "single_price": 23.0,
+        "meal_price": 30.5,
+        "category": "pork_muffin",
+        "units": 1,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "板燒雞腿飽",
+        "single_price": 27.5,
+        "meal_price": 45.0,
+        "category": "grilled_chicken_burger",
+        "units": 1,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "豬柳漢堡™",
+        "single_price": 15.5,
+        "meal_price": 39.0,
+        "category": "pork_burger",
+        "units": 1,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "魚柳飽",
+        "single_price": 14.0,
+        "meal_price": 41.5,
+        "category": "fish_burger",
+        "units": 1,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "麥樂雞®（9件）",
+        "single_price": 29.0,
+        "meal_price": 45.5,
+        "category": "nuggets",
+        "units": 9,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "麥樂雞®（6件）",
+        "single_price": 24.0,
+        "meal_price": 29.0,
+        "category": "nuggets",
+        "units": 6,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "脆香雞翼（4件）",
+        "single_price": 27.5,
+        "meal_price": 44.5,
+        "category": "chicken_wings",
+        "units": 4,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "脆香雞翼（2件）",
+        "single_price": 17.0,
+        "meal_price": null,
+        "category": "chicken_wings",
+        "units": 2
+      },
+      {
+        "name": "脆香雞翼分享桶",
+        "single_price": 104.5,
+        "meal_price": null,
+        "category": "chicken_wings",
+        "units": 16
+      },
+      {
+        "name": "芝士漢堡飽",
+        "single_price": 17.0,
+        "meal_price": null,
+        "category": "small_burger",
+        "units": 1
+      },
+      {
+        "name": "漢堡飽",
+        "single_price": 15.0,
+        "meal_price": null,
+        "category": "small_burger",
+        "units": 1
+      },
+      {
+        "name": "麥芝蛋飽",
+        "single_price": 17.5,
+        "meal_price": null,
+        "category": "small_burger",
+        "units": 1
+      },
+      {
+        "name": "麥香雞®",
+        "single_price": 16.0,
+        "meal_price": null,
+        "category": "small_burger",
+        "units": 1
+      },
+      {
+        "name": "辣辣麥炸雞（2件）",
+        "single_price": 38.5,
+        "meal_price": 39.0,
+        "category": "fried_chicken",
+        "units": 2,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "蜜糖BBQ麥炸雞（2件）",
+        "single_price": 38.5,
+        "meal_price": 39.0,
+        "category": "fried_chicken",
+        "units": 2,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "麥炸雞（原味）（2件）",
+        "single_price": 36.5,
+        "meal_price": 39.0,
+        "category": "fried_chicken",
+        "units": 2,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
+      },
+      {
+        "name": "辣辣麥炸雞分享桶（6件）",
+        "single_price": 88.0,
+        "meal_price": null,
+        "category": "fried_chicken",
+        "units": 6
+      },
+      {
+        "name": "辣辣及原味麥炸雞分享桶（6件）",
+        "single_price": 88.0,
+        "meal_price": null,
+        "category": "fried_chicken",
+        "units": 6
+      },
+      {
+        "name": "辣辣及蜜糖麥炸雞分享桶（6件）",
+        "single_price": 88.0,
+        "meal_price": null,
+        "category": "fried_chicken",
+        "units": 6
+      },
+      {
+        "name": "蜜糖BBQ麥炸雞分享桶（6件）",
+        "single_price": 88.0,
+        "meal_price": null,
+        "category": "fried_chicken",
+        "units": 6
+      },
+      {
+        "name": "原味及蜜糖BBQ及辣辣麥炸雞分享桶（6件）",
+        "single_price": 88.0,
+        "meal_price": null,
+        "category": "fried_chicken",
+        "units": 6
+      },
+      {
+          "name": "麥炸雞（原味）分享桶（6件）",
+          "single_price": 88.0,
+          "meal_price": null,
+          "category": "fried_chicken",
+          "units": 6
+        },
+        {
+          "name": "原味及蜜糖BBQ麥炸雞分享桶（6件）",
+          "single_price": 88.0,
+          "meal_price": null,
+          "category": "fried_chicken",
+          "units": 6
+        },
+        {
+          "name": "辣辣麥炸雞（1件）",
+          "single_price": 22.0,
+          "meal_price": null,
+          "category": "fried_chicken",
+          "units": 1
+        },
+        {
+          "name": "蜜糖BBQ麥炸雞1件",
+          "single_price": 22.0,
+          "meal_price": null,
+          "category": "fried_chicken",
+          "units": 1
+        },
+        {
+          "name": "麥炸雞（原味）1件",
+          "single_price": 21.0,
+          "meal_price": null,
+          "category": "fried_chicken",
+          "units": 1
+        },
+        {
+          "name": "凱撒沙律",
+          "single_price": 35.0,
+          "meal_price": 46.5,
+          "category": "salad",
+          "units": 1,
+          "default_drink": "可口可樂®汽水",
+          "default_side": "薯條"
+        },
+        {
+          "name": "凱撒沙律醬",
+          "single_price": 4.0,
+          "meal_price": null,
+          "category": "sauce",
+          "units": 1
+        },
+        {
+          "name": "焙煎芝麻醬",
+          "single_price": 4.0,
+          "meal_price": null,
+          "category": "sauce",
+          "units": 1
+        },
+        {
+          "name": "黑醋調味汁",
+          "single_price": 4.0,
+          "meal_price": null,
+          "category": "sauce",
+          "units": 1
+        },
+        {
+          "name": "開心樂園餐麥樂雞®（4件）",
+          "single_price": 34.5,
+          "meal_price": null,
+          "category": "happy_meal",
+          "units": 1
+        },
+        {
+          "name": "開心樂園餐魚柳飽",
+          "single_price": 36.5,
+          "meal_price": null,
+          "category": "happy_meal",
+          "units": 1
+        },
+        {
+          "name": "其他開心樂園餐",
+          "single_price": 28.0,
+          "meal_price": null,
+          "category": "happy_meal",
+          "units": 1
+        },
+        {
+            "name": "巨峰提子波波梳打",
+            "single_price": 23.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "滑嘟嘟奶昔",
+            "single_price": 18.0,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "可口可樂®汽水",
+            "single_price": 17.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "雪碧®檸檬青檸味汽水",
+            "single_price": 17.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "芬達®橙味汽水",
+            "single_price": 17.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "無糖可口可樂@",
+            "single_price": 17.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "凍港式奶茶",
+            "single_price": 21.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "凍新鮮檸檬茶",
+            "single_price": 21.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "美粒果®蘋果汁",
+            "single_price": 20.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "美粒果@橙汁",
+            "single_price": 20.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "高鈣低脂牛奶飲品",
+            "single_price": 19.0,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "淳茶舍®茉莉綠茶（無糖）",
+            "single_price": 18.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "士多啤梨奶昔",
+            "single_price": 17.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "呍呢拿奶昔",
+            "single_price": 17.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "凍即磨黑咖啡 Iced Americano",
+            "single_price": 31.0,
+            "meal_price": null,
+            "category": "coffee",
+            "units": 1
+          },
+          {
+            "name": "凍即磨白咖啡 Iced White Coffee",
+            "single_price": 34.0,
+            "meal_price": null,
+            "category": "coffee",
+            "units": 1
+          },
+          {
+            "name": "凍即磨鮮奶咖啡 Iced Latte",
+            "single_price": 35.0,
+            "meal_price": null,
+            "category": "coffee",
+            "units": 1
+          },
+          {
+            "name": "厚椰奶鐵 Iced Coconut Milk Latte",
+            "single_price": 35.0,
+            "meal_price": null,
+            "category": "coffee",
+            "units": 1
+          },
+          {
+            "name": "熱港式奶茶",
+            "single_price": 18.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "熱朱古力",
+            "single_price": 18.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "熱新鮮檸檬茶",
+            "single_price": 18.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "熱新鮮檸檬水",
+            "single_price": 18.5,
+            "meal_price": null,
+            "category": "drink",
+            "units": 1
+          },
+          {
+            "name": "即磨黑咖啡 Americano",
+            "single_price": 23.5,
+            "meal_price": null,
+            "category": "coffee",
+            "units": 1
+          },
+          {
+            "name": "即磨鮮奶咖啡 Latte",
+            "single_price": 25.0,
+            "meal_price": null,
+            "category": "coffee",
+            "units": 1
+          },
+          {
+            "name": "椰香鮮奶咖啡 Coconut Flavored Latte",
+            "single_price": 25.0,
+            "meal_price": null,
+            "category": "coffee",
+            "units": 1
+          },
+          {
+            "name": "即磨白咖啡 White Coffee",
+            "single_price": 24.0,
+            "meal_price": null,
+            "category": "coffee",
+            "units": 1
+          },
+          {
+            "name": "熱朱古力咖啡 Hot Chocolate Coffee",
+            "single_price": 24.0,
+            "meal_price": null,
+            "category": "coffee",
+            "units": 1
+          },
+          {
+            "name": "藍莓新地",
+            "single_price": 12.5,
+            "meal_price": null,
+            "category": "dessert",
+            "units": 1
+          },
+          {
+            "name": "香芋批",
+            "single_price": 11.5,
+            "meal_price": null,
+            "category": "dessert",
+            "units": 1
+          },
+          {
+            "name": "迷你聰明豆®新地",
+            "single_price": 12.5,
+            "meal_price": null,
+            "category": "dessert",
+            "units": 1
+          },
+          {
+            "name": "新地筒",
+            "single_price": 9.0,
+            "meal_price": null,
+            "category": "dessert",
+            "units": 1
+          },
+          {
+            "name": "蘋果批",
+            "single_price": 11.0,
+            "meal_price": null,
+            "category": "dessert",
+            "units": 1
+          },
+          {
+            "name": "士多啤梨新地",
+            "single_price": 12.0,
+            "meal_price": null,
+            "category": "dessert",
+            "units": 1
+          },
+          {
+            "name": "朱古力新地",
+            "single_price": 12.0,
+            "meal_price": null,
+            "category": "dessert",
+            "units": 1
+          },
+          {
+            "name": "藍莓高鈣低脂乳酪",
+            "single_price": 17.5,
+            "meal_price": null,
+            "category": "dessert",
+            "units": 1
+          },
+          {
+            "name": "OREO®麥旋風",
+            "single_price": 17.0,
+            "meal_price": null,
+            "category": "dessert",
+            "units": 1
+          }
+]
