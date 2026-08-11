@@ -3,15 +3,6 @@
   "updated_at": "2026-08-11 10:00:00",
   "items":[
     {
-      "name": "財富增值堡",
-      "single_price": 39.0,
-      "meal_price": 48.0,
-      "category": "shrimp_burger",
-      "units": 1,
-      "default_drink": "可口可樂®汽水",
-      "default_side": "薯條"
-    },
-    {
       "name": "魚柳蝦堡",
       "single_price": 39.0,
       "meal_price": 48.0,
@@ -145,6 +136,13 @@
         "units": 1,
         "default_drink": "可口可樂®汽水",
         "default_side": "薯條"
+      },
+    {
+        "name": "豬柳漢堡™",
+        "single_price": 20.5,
+        "meal_price": null,
+        "category": "pork_burger",
+        "units": 1
       },
       {
         "name": "魚柳飽",
