@@ -137,13 +137,6 @@
         "default_drink": "可口可樂®汽水",
         "default_side": "薯條"
       },
-    {
-        "name": "豬柳漢堡™",
-        "single_price": 20.5,
-        "meal_price": null,
-        "category": "pork_burger",
-        "units": 1
-      },
       {
         "name": "魚柳飽",
         "single_price": 14.0,
