@@ -133,7 +133,9 @@
         "single_price": 15.5,
         "meal_price": null,
         "category": "pork_burger",
-        "units": 1
+        "units": 1,
+        "default_drink": "可口可樂®汽水",
+        "default_side": "薯條"
       },
       {
         "name": "魚柳飽",
