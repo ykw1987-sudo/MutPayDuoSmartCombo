@@ -2,7 +2,9 @@
   "enabled": true,
   "id": "2026-08-12-03",
   "title": "推介其他 App",
-  "message": "📲 即時到站 - 港鐵輕鐵\n免費查港鐵／輕鐵到站時間\n\nApp Store 免費下載：\nhttps://apps.apple.com/hk/app/id6792757708",
+  "message": "📲 即時到站 - 港鐵輕鐵\n免費查港鐵／輕鐵到站時間。",
   "type": "info",
-  "display": "always"
+  "display": "always",
+  "link_url": "https://apps.apple.com/hk/app/id6792757708",
+  "link_title": "前往下載"
 }
