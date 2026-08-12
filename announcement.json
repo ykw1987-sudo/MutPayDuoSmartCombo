@@ -1,10 +1,8 @@
 {
   "enabled": true,
   "id": "2026-08-12-03",
-  "title": "維護通知",
-  "message": "📲 App Store 免費下載：
-https://apps.apple.com/hk/app/%E5%8D%B3%E6%99%82%E5%88%B0%E7%AB%99-%E6%B8%AF%E9%90%B5%E8%BC%95%E9%90%B5/id6792757708
-即時到站-港鐵輕鐵",
+  "title": "推介其他 App",
+  "message": "📲 即時到站 - 港鐵輕鐵\n免費查港鐵／輕鐵到站時間\n\nApp Store 免費下載：\nhttps://apps.apple.com/hk/app/id6792757708",
   "type": "info",
   "display": "always"
 }
