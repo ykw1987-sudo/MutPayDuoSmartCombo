@@ -74,6 +74,9 @@ App Store Connect 公開連結
 •
 免責聲明：disclaimer.md
 
+- **電子郵件 (Email)**：ykw1987@gmail.com
+- **GitHub Issues**：[點擊這裡回報問題](https://github.com/ykw1987-sudo/MutPayDuoSmartCombo/issues)
+
 開發者
 
 Kai Wa Yuen
