@@ -1,13 +1,8 @@
 {
   "enabled": false,
-  "id": "2026-08-17-01",
-  "title": "推介其他 App",
-  "message": "📲 即時到站 - 港鐵輕鐵\n免費查港鐵／輕鐵到站時間。",
+  "id": "2026-08-16-01",
+  "title": "維護通知",
+  "message": "本週六凌晨 2 時至 4 時進行系統維護，期間菜單可能暫時無法更新。\n\n造成不便，敬請見諒。",
   "type": "info",
-  "display": "once",
-  "image_url": "https://raw.githubusercontent.com/ykw1987-sudo/MutPayDuoSmartCombo/main/promo_icon.png",
-  "image_url_2": "https://raw.githubusercontent.com/ykw1987-sudo/MutPayDuoSmartCombo/main/promo_screenshot.PNG",
-  "image_url_3": "https://raw.githubusercontent.com/ykw1987-sudo/MutPayDuoSmartCombo/main/promo_screenshot_2.PNG",
-  "link_url": "https://apps.apple.com/hk/app/id6792757708",
-  "link_title": "iOS 下載"
+  "display": "once"
 }
